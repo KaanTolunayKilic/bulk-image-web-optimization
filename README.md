@@ -1,6 +1,6 @@
 # Overview
 
-Script to resize all images in a specific folder.
+Command line tool for bulk image processing 
 
 ## Usage
 
